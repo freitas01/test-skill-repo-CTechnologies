@@ -984,12 +984,71 @@ h2 {
 
 /* End of Mountains */
 
+/*footer */
 #footer-mountain {
 
+      text-align: center;
       background-color:#414f6b;
       color: #F2FFFC;
-      padding: 10px;/* espaço interno*/
+      padding: 10px;
       width: 100%;
-      margin-top: 220px;
+      margin-top: 200px;
+      display:flex;
+      text-align: center;
+      
       
 }
+
+#footer-img {
+
+    margin-left: 10%;
+
+}
+
+#footer-txt {
+ 
+  font-family: 'Big Shoulders Display', cursive, sans-serif; 
+  position: relative;
+  text-align: justify;
+  margin-left: -10px;
+  display: inline; 
+  width: auto;
+  margin-top: 10px;
+}
+#footer-txt1 {
+
+  font-family: 'Big Shoulders Display', cursive, sans-serif; 
+  position: relative;
+  text-align: justify;
+  margin-left: -123px;
+  display: inline; 
+  width: auto;
+  margin-top: 35px;
+
+}
+
+#footer-mountain a {
+
+
+  text-decoration: none;
+
+  margin-left: 50px;
+  font-family: 'Big Shoulders Display', cursive, sans-serif; 
+  color: #fff;
+  font-size: 22px;
+
+}
+
+#footer-copy {
+  
+  font-family: 'Big Shoulders Display', cursive, sans-serif; 
+  text-align: justify;
+  margin-left: 100px;
+  margin-top: 25px;
+
+  
+
+}
+
+
+/*end footer */
